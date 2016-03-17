@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "babel-core": "^6.0.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.0.0"
+  },
+  "scripts": {
+    "repro": "node repro"
+  }
+}
